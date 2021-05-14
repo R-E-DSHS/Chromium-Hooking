@@ -1,4 +1,4 @@
-# chrome hooker
+# Chromium Hooking
  Chromium based browser hooking PoC
  
  - Using Detours
